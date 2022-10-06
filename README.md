@@ -15,8 +15,7 @@ Machine Learning study 공용 저장소입니다
 4. 미팅에서는 점수가 가장 높은 2명의 발표를 듣고 질의응답을 합니다
 5. 준비해온 서로의 topic을 공유합니다
 6. 다음 주 담당자를 선정하고 마칩니다 
-
-<br>
+<br><br>
 # People (domain)
 - **Seong-il park** (Natural Language Processing)
 - **HimChan Lee** (Data Science)
