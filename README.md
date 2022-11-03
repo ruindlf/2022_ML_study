@@ -1,6 +1,6 @@
 # Machine Learning & Kaggle study
 
-SV Machine Learning study 공용 저장소입니다
+Machine Learning study 공용 저장소입니다
 <br><br>
 # Since
 2022-10-17
@@ -16,10 +16,14 @@ SV Machine Learning study 공용 저장소입니다
 5. 다음 주 담당자를 선정하고 마칩니다 
 <br><br>
 # Schedule
-[00주차-10-17] **Data Preprocessing & Basic ML 0** (titanic disaster/Kaggle)
+[01주차-09-29] **Data Preprocessing & Basic ML 1** ([서울시 따릉이 예측대회/Dacon](https://dacon.io/competitions/open/235576/data))
 
-[00주차-10-24] **Data Preprocessing & Basic ML 1** (서울시 따릉이 예측대회/Dacon)
+[02주차-10-06] **Data Preprocessing & Basic ML 2** ([Spaceship-titanic/Kaggle](https://www.kaggle.com/competitions/spaceship-titanic))
 
-[02주차-10-31] **Data Preprocessing & Basic ML 2** (titanic spaceship/Kaggle)
+[03주차-10-13] **Feature Engineering** ([제주 테크노파크 제주도 도로 교통량 예측/Dacon](https://dacon.io/competitions/official/235985/overview/description))
 
-[03주차-11-??]
+[04주차-10-20] **Binary Classification** ([Catch me if you can/Kaggle](https://www.kaggle.com/competitions/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2))
+
+[05주차-10-27] **Multi-class Classification ([San Francisco Crime Classification/Kaggle](https://www.kaggle.com/competitions/sf-crime/overview))
+
+[06주차-11-03] **Regression** ([Restaurant Revenue Prediction/Kaggle](https://www.kaggle.com/competitions/restaurant-revenue-prediction/data))
