@@ -30,12 +30,16 @@ Machine Learning study 공용 저장소입니다
 
 [04주차-10-20] **Binary Classification** ([Catch me if you can/Kaggle](https://www.kaggle.com/competitions/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2))
 1. 개요
-  - 각 사이트 접속 시간이 기록되어 있는 세션 데이터가 주어지고, 그 중 사용자가 “Alice”인 세션을 예측하는 binary classification 문제였습니다
-  - 세션 데이터라는 새로운 형태의 데이터인 만큼 feature engineering에 신경을 써야 했습니다
+  - 각 사이트 접속 시간이 기록되어 있는 세션 데이터가 주어지고, 그 중 사용자가 “Alice”인 세션을 예측하는 binary classification 문제
+  - 세션 데이터라는 새로운 형태의 데이터인 만큼 feature engineering이 중요
+2. Topic
+  - Hashed feature
 
 [05주차-10-27] **Multi-class Classification** ([San Francisco Crime Classification/Kaggle](https://www.kaggle.com/competitions/sf-crime/overview))
 1. 개요
-- 샌프란시스코 지역에서 발생한 범죄 데이터로 주어진 시간과 장소에서 발생한 범죄의 종류를 예측하는 multi-class classification 문제였습니다
-- 시간정보, 공간정보를 모두 활용 할 수 있는 문제였습니다
+  - 샌프란시스코 지역에서 발생한 범죄 데이터로 주어진 시간과 장소에서 발생한 범죄의 종류를 예측하는 multi-class classification 문제였습니다
+  - 시간정보, 공간정보를 모두 활용 할 수 있는 문제였습니다
+2. Topic
+  - Interpretable ML (LIME, SHAP)
 
 [06주차-11-03] **Regression** ([Restaurant Revenue Prediction/Kaggle](https://www.kaggle.com/competitions/restaurant-revenue-prediction/data))
