@@ -17,13 +17,18 @@ Machine Learning study 공용 저장소입니다
 <br><br>
 # Schedule
 [01주차-09-29] **Data Preprocessing & Basic ML 1** ([서울시 따릉이 예측대회/Dacon](https://dacon.io/competitions/open/235576/data))
+- 기온, 풍속, 습도 등의 데이터를 활용해 시간별 따릉이 대여량을 예측하는 regression 문제였습니다
+- data preprocessing (missing value, feature engineering...)을 적절히 활용해볼 수 있었습니다
 
 [02주차-10-06] **Data Preprocessing & Basic ML 2** ([Spaceship-titanic/Kaggle](https://www.kaggle.com/competitions/spaceship-titanic))
-
+- space titanic 탑승자 중 transported된 승객을 분류하는 classification 문제였습니다
+- missing value는 적은 편이나 없지는 않아 적당한 imputing이 필요했습니다
+- AutoML tool인 ₩pycaret₩을 통해 baseline model selection을 할 수 있었고
+- 
 [03주차-10-13] **Feature Engineering** ([제주 테크노파크 제주도 도로 교통량 예측/Dacon](https://dacon.io/competitions/official/235985/overview/description))
 
 [04주차-10-20] **Binary Classification** ([Catch me if you can/Kaggle](https://www.kaggle.com/competitions/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2))
 
-[05주차-10-27] **Multi-class Classification ([San Francisco Crime Classification/Kaggle](https://www.kaggle.com/competitions/sf-crime/overview))
+[05주차-10-27] **Multi-class Classification** ([San Francisco Crime Classification/Kaggle](https://www.kaggle.com/competitions/sf-crime/overview))
 
 [06주차-11-03] **Regression** ([Restaurant Revenue Prediction/Kaggle](https://www.kaggle.com/competitions/restaurant-revenue-prediction/data))
