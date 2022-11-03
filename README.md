@@ -23,12 +23,19 @@ Machine Learning study 공용 저장소입니다
 [02주차-10-06] **Data Preprocessing & Basic ML 2** ([Spaceship-titanic/Kaggle](https://www.kaggle.com/competitions/spaceship-titanic))
 - space titanic 탑승자 중 transported된 승객을 분류하는 classification 문제였습니다
 - missing value는 적은 편이나 없지는 않아 적당한 imputing이 필요했습니다
-- AutoML tool인 ₩pycaret₩을 통해 baseline model selection을 할 수 있었고
-- 
+
 [03주차-10-13] **Feature Engineering** ([제주 테크노파크 제주도 도로 교통량 예측/Dacon](https://dacon.io/competitions/official/235985/overview/description))
+- 제주도의 교통 정보로부터 도로 교통량을 예측하는 regression 문제였습니다
+- 다양한 형태의 변수(numericial, categorical, coordinates...)를 적절히 활용해 모델링 할 수 있어야 했습니다
 
 [04주차-10-20] **Binary Classification** ([Catch me if you can/Kaggle](https://www.kaggle.com/competitions/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2))
+1. 개요
+  - 각 사이트 접속 시간이 기록되어 있는 세션 데이터가 주어지고, 그 중 사용자가 “Alice”인 세션을 예측하는 binary classification 문제였습니다
+  - 세션 데이터라는 새로운 형태의 데이터인 만큼 feature engineering에 신경을 써야 했습니다
 
 [05주차-10-27] **Multi-class Classification** ([San Francisco Crime Classification/Kaggle](https://www.kaggle.com/competitions/sf-crime/overview))
+1. 개요
+- 샌프란시스코 지역에서 발생한 범죄 데이터로 주어진 시간과 장소에서 발생한 범죄의 종류를 예측하는 multi-class classification 문제였습니다
+- 시간정보, 공간정보를 모두 활용 할 수 있는 문제였습니다
 
 [06주차-11-03] **Regression** ([Restaurant Revenue Prediction/Kaggle](https://www.kaggle.com/competitions/restaurant-revenue-prediction/data))
