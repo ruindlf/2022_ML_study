@@ -3,18 +3,16 @@
 Machine Learning study 공용 저장소입니다
 <br><br>
 # Since
-2022-10-17
+2022-09-29
 <br><br>
 # Goal
 **Machine Learning 이론을 이해하는 것을 넘어 실제 모델을 구현하고, 좋은 성능을 내는 것에 집중합니다.**
 <br><br>
 ### process
-- meeting 전
 1. 매주 미팅 주관자가 사전에 정해준 문제(Kaggle/Dacon competition)를 가이드라인에 따라 풉니다.
-2. 미팅 주관자를 제외한 서로의 코드와 점수를 공유합니다
-- meeting
-3. 주관자는 ML과 관련된 Topic을 공유합니다
-4. 차례대로 돌아가면서 코드를 공유하고 생각해볼만한 주제들에 대해 얘기를 나눕니다
+2. competition 점수는 노션에 공유합니다
+3. 미팅이 시작되면 주관자는 ML과 관련된 Topic을 공유합니다
+4. Topic 공유가 끝나면 차례대로 돌아가면서 코드를 공유하고 생각해볼만한 주제들에 대해 얘기를 나눕니다
 5. 다음 주 담당자를 선정하고 마칩니다 
 <br><br>
 # Schedule
