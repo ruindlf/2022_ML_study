@@ -56,3 +56,31 @@ Machine Learning study 공용 저장소입니다
   - time series 데이터의 특성을 이해하고 적절한 feature engineering이 필요
 2. Topic
   - Key concepts of hyperparameter optimization theories and frameworks
+
+[08주차-11-17] **Unsupervised Anomaly Detection ([신용카드 사기 거래 탐지 AI 경진대회/Dacon](https://dacon.io/competitions/official/235930/overview/description)]
+1. 개요
+  - 신용 카드 거래 내역을 학습하여 사기 거래 내역(이상치)를 탐지하는 비지도 이상치 탐지 문제
+  - PCA, SVD 등 dimension reduction과 Neural Net 기반의 AutoEncoder 등 다양한 방식 사용 가능
+2. Topic
+  - SVD & PCA
+
+[09주차-11-24] **Multi-Class Image Classification** ([예술 작품 화가 분류 AI 경진대회/Dacon](https://dacon.io/competitions/official/236006/overview/description))
+1. 개요
+  - 예술 작품의 일부분만을 가지고 올바르게 화가를 분류 하는 대회
+  - 학습 데이터와는 다르게 테스트 데이터는 예술작품의 일부분인 점이 특징적이며 Data augmentation 기법이 중요
+2. Topic
+  - Clustering & Performance measures
+
+[10주차-12-08] **Text Classification** ([BBC News Classification/Kaggle](https://www.kaggle.com/competitions/learn-ai-bbc/overview))
+1. 개요
+  - 뉴스의 내용이 주어지고 해당 내용을 바탕으로 뉴스의 토픽을 분류
+2. Topic
+  - Pretraining Language Model
+
+[12주차-12-15] **Recommendation System** ([KKBox's Music Recommendation Challenge/Kaggle](https://www.kaggle.com/c/kkbox-music-recommendation-challenge))
+ 1. 개요
+  - KKBox (아시아 음악 스트리밍 사이트)에서 제공한 데이터를 바탕으로 음악을 추천해주는 모델
+ 2. Topic
+  - Technical Debt
+ 
+
