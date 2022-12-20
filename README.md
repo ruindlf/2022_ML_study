@@ -57,7 +57,7 @@ Machine Learning study 공용 저장소입니다
 2. Topic
   - Key concepts of hyperparameter optimization theories and frameworks
 
-[08주차-11-17] **Unsupervised Anomaly Detection ([신용카드 사기 거래 탐지 AI 경진대회/Dacon](https://dacon.io/competitions/official/235930/overview/description)]
+[08주차-11-17] **Unsupervised Anomaly Detection** ([신용카드 사기 거래 탐지 AI 경진대회/Dacon](https://dacon.io/competitions/official/235930/overview/description)]
 1. 개요
   - 신용 카드 거래 내역을 학습하여 사기 거래 내역(이상치)를 탐지하는 비지도 이상치 탐지 문제
   - PCA, SVD 등 dimension reduction과 Neural Net 기반의 AutoEncoder 등 다양한 방식 사용 가능
